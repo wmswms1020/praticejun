@@ -1,5 +1,5 @@
 package com.javaex.ex08;
 
-public class Point {
+public class Goods {
 
 }
